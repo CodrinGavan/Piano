@@ -1,3 +1,7 @@
 # Piano
  Piano
-<img src="https://raw.githubusercontent.com/CodrinGavan/Piano/master/Piano.png"/>
+ <ul>
+ <li>
+ <a href="https://codringavan.github.io/Piano/">Live Preview</a>
+ </li>
+ </ul>
